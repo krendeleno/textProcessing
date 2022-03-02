@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/.idea
+# Datasource local storage ignored files
+/../../../../../:\spbu projects\3 курс\Обработка текстов\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+Обработка текстов.iml
